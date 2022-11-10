@@ -1,0 +1,1086 @@
+[
+  {
+    "key": "wrong_application",
+    "val": "The Application is wrong"
+  },
+  {
+    "key": "must_send_application_no",
+    "val": "Application number must be send"
+  },
+  {
+    "key": "must_send_application_type",
+    "val": "Application type must be send"
+  },
+  {
+    "key": "must_send_company_code",
+    "val": "The Company code must be send for application"
+  },
+  {
+    "key": "must_have_this_application",
+    "val": " User must be the owner of the application   "
+  },
+  {
+    "key": "page_not_found",
+    "val": " Can't connected to the database "
+  },
+  {
+    "key": "application_must_be_closed",
+    "val": "The Application hasn't been completed"
+  },
+  {
+    "key": "done_success",
+    "val": "Done Successfully "
+  },
+  {
+    "key": "login_user_not_found",
+    "val": "User not found"
+  },
+  {
+    "key": "login_user_company_not_found",
+    "val": "The Company not found "
+  },
+  {
+    "key": "login_user_not_same_application_company",
+    "val": "The Current user doesn't match the same Application company"
+  },
+  {
+    "key": "appliaction_is_pending_and_found_internal_actions_processing",
+    "val": "The request is pending now and has to complete some internal actions"
+  },
+  {
+    "key": "found_error_in_action_information",
+    "val": "The request has incorrect data for the action number"
+  },
+  {
+    "key": "not_found_next_action_for_last_action",
+    "val": "There is no next action for the last Application action"
+  },
+  {
+    "key": "unknown_next_action_for_last_action",
+    "val": "The next action for the last one is unknown."
+  },
+  {
+    "key": "action_not_found",
+    "val": "Action not found ."
+  },
+  {
+    "key": "this_action_can_not_have_more_actions_related",
+    "val": "There is can't be more than one action following this action"
+  },
+  {
+    "key": "wrong_request",
+    "val": "The request is wrong . "
+  },
+  {
+    "key": "must_enter_application_type",
+    "val": "Determine the type of action for the application."
+  },
+  {
+    "key": "context_not_found",
+    "val": "Unknown Connection "
+  },
+  {
+    "key": "application_type_not_entered",
+    "val": "Application type doesn't "
+  },
+  {
+    "key": "field_not_found",
+    "val": "الحقل غير موجود"
+  },
+  {
+    "key": "action_information",
+    "val": "بيانات الاجراء"
+  },
+  {
+    "key": "field_type_not_found",
+    "val": "نوع الحقل غير موجود"
+  },
+  {
+    "key": "must_enter_station",
+    "val": "لابد من وجود فرع"
+  },
+  {
+    "key": "this_account_not_related_for_this_user",
+    "val": "الحساب غير مرتبط بهذا المستخدم"
+  },
+  {
+    "key": "can_not_connect_to_db_for_selected_filter",
+    "val": "لم يتمكن من اتصال بقاعده البيانات لتحديد المحددات"
+  },
+  {
+    "key": "unknown_company",
+    "val": "شركة غير معرفه"
+  },
+  {
+    "key": "must_be_admin",
+    "val": "لابد ان يكون ادمن"
+  },
+  {
+    "key": "this_application_for_other_customer",
+    "val": "الطلب يخص عميل آخر"
+  },
+  {
+    "key": "state_of_this_action_not_found",
+    "val": "مرحله الاجراء غير موجوده"
+  },
+  {
+    "key": "state_of_next_action_not_found",
+    "val": "مرحله الاجراء التاليه غير موجوده"
+  },
+  {
+    "key": "this_application_have_not_action",
+    "val": "لا يوجد اجراء بالطلب المرسل"
+  },
+  {
+    "key": "must_be_external_action",
+    "val": "لابد ان يكون اجراء خارجي"
+  },
+  {
+    "key": "must_action_have_group_fields",
+    "val": "لابد من وجود مجموعه حقول للاجراء"
+  },
+  {
+    "key": "group_not_found",
+    "val": "المجموعه غير موجود"
+  },
+  {
+    "key": "data_source_not_found_must_enter_item_related",
+    "val": "بيان مصدر البيانات غير موجود ولابد من ادخال المصدر المرتبط به"
+  },
+  {
+    "key": "must_enter_application_type_and_company",
+    "val": "لابد من تحديد نوع الطلب والشركه"
+  },
+  {
+    "key": "application_already_confirmed",
+    "val": "الطلب تم تأكيده"
+  },
+  {
+    "key": "application_type_not_activated",
+    "val": "نوع الطلب غير مفعل"
+  },
+  {
+    "key": "application_type_underconstruction",
+    "val": "نوع الطلب تحت الانشاء"
+  },
+  {
+    "key": "user_not_found",
+    "val": "المستخدم غير موجود"
+  },
+  {
+    "key": "user_have_not_permition",
+    "val": "المستخدم لا يمتلك الصلاحية الكافية"
+  },
+  {
+    "key": "this_type_must_have_account",
+    "val": "هذا النوع لابد من ان يكون له رقم حساب"
+  },
+  {
+    "key": "account_no_not_found",
+    "val": "رقم الحساب غير موجود"
+  },
+  {
+    "key": "account_",
+    "val": "الحساب - "
+  },
+  {
+    "key": "customer_account_has_not_station",
+    "val": "لا يوجد فرع لرقم حساب العميل"
+  },
+  {
+    "key": "customer_station_different_user_station",
+    "val": "فرع العميل مختلف عن الفرع الحالي للمستخدم"
+  },
+  {
+    "key": "customer_",
+    "val": "العميل - "
+  },
+  {
+    "key": "customer_not_found",
+    "val": "العميل غير موجود"
+  },
+  {
+    "key": "customer_has_not_station",
+    "val": "العميل ليس له فرع"
+  },
+  {
+    "key": "user_has_not_station",
+    "val": "المستخدم ليس له فرع"
+  },
+  {
+    "key": "application_station_not_found",
+    "val": "فرع الطلب غير معرف"
+  },
+  {
+    "key": "company_code_not_found",
+    "val": "كود الشركه غير معرف"
+  },
+  {
+    "key": "external_action_not_related_with_communication_type",
+    "val": "الاجراء الخارجي غير مرتبط بنوع اتصال"
+  },
+  {
+    "key": "next_state_for_first_action_not_found",
+    "val": "المرحله التاليه لاول اجراء غير معرفه"
+  },
+  {
+    "key": "current_state_for_first_action_not_found",
+    "val": "المرحله الحالية لاول اجراء غير معرفه"
+  },
+  {
+    "key": "must_select_action",
+    "val": "لابد من تحديد الاجراء"
+  },
+  {
+    "key": "this_application_type_can_not_be_prepared_from_portal",
+    "val": "لا يمكن تقديم هذا الطلب من البوابه"
+  },
+  {
+    "key": "application_must_has_action_selected",
+    "val": "لابد من وجود اجراء للطب"
+  },
+  {
+    "key": "you_have_opened_application",
+    "val": "يوجد طلبات مفتوحه أو طلبات كمسودة للعميل من قبل لنفس النوع"
+  },
+  {
+    "key": "fees_code_not_found",
+    "val": "الكود للمصروفات غير موجود"
+  },
+  {
+    "key": "external_fees_not_allowed_for_this_action",
+    "val": "لا يسمح بوجود مصروفات خارجيه لهذا الاجراء"
+  },
+  {
+    "key": "this_fees_not_found_in_action_fees",
+    "val": "المصروف غير موجود بهذا الاجراء"
+  },
+  {
+    "key": "create_application_done",
+    "val": "تم فتح طلب"
+  },
+  {
+    "key": "found_error_in_auto_action_",
+    "val": "ظهر خطأ عند اجراء تلقائي - "
+  },
+  {
+    "key": "saved_success_with_no_",
+    "val": "تم الحفظ بنجاح برقم "
+  },
+  {
+    "key": "you_have_not_permition_action",
+    "val": "لا يمكن عمل الاجراء لعدم وجود صلاحيه"
+  },
+  {
+    "key": "this_application_closed",
+    "val": "الطلب مغلق"
+  },
+  {
+    "key": "application_has_not_last_action",
+    "val": "الطلب لا يوجد به آخر اجراء"
+  },
+  {
+    "key": "application_has_external_action_pending",
+    "val": "الطلب لديه اجراء خارجي معلق"
+  },
+  {
+    "key": "application_must_has_previous_actions",
+    "val": "لابد من وجود اجراءات سابقه من قبل"
+  },
+  {
+    "key": "application_must_has_last_state",
+    "val": "الطلب لا يوجد به آخر مرحله"
+  },
+  {
+    "key": "must_select_category_group",
+    "val": "لابد من اختيار مجموعه تصنيف الطلبات"
+  },
+  {
+    "key": "category_name_exist",
+    "val": "اسم مجموعه تصنيف الطلبات موجوده من قبل"
+  },
+  {
+    "key": "saved_success",
+    "val": "تم الحفظ بنجاح"
+  },
+  {
+    "key": "must_select_category",
+    "val": "لابد من اختيار مجموعه تصنيف"
+  },
+  {
+    "key": "application_types_category_not_found",
+    "val": "مجموعه تصنيف انواع الطلبات غير موجوده من قبل"
+  },
+  {
+    "key": "can_not_delete_application_types_category_because_found_application_types_related",
+    "val": "لا يمكن حذف مجموعه تصنيف انواع الطلبات لوجود انواع عليها"
+  },
+  {
+    "key": "must_enter_category_name",
+    "val": "لابد من كتابه اسم مجموعه التصنيف"
+  },
+  {
+    "key": "must_select_element",
+    "val": "لابد من اختيار العنصر"
+  },
+  {
+    "key": "element_not_found",
+    "val": "العنصر غير موجود من قبل"
+  },
+  {
+    "key": "wrong_sort_datasource_list",
+    "val": "هناك خطأ في ترتيب القوائم"
+  },
+  {
+    "key": "title_datasource_list_not_found",
+    "val": "عنوان القائمه غير موجود"
+  },
+  {
+    "key": "this_element_can_not_be_same_related_element",
+    "val": "لايمكن ان يكون العنصر هو نفس العنصر المرتبط"
+  },
+  {
+    "key": "related_element_not_found",
+    "val": "العنصر المرتبط غير موجود من قبل"
+  },
+  {
+    "key": "related_element_already_related_with_other_element_and_this_is_prevented",
+    "val": "العنصر المرتبط فعلا بعنصر آخر ولا يمكن ربط عنصر قائمه بأخري"
+  },
+  {
+    "key": "element_name_exist",
+    "val": "اسم العنصر موجود من قبل"
+  },
+  {
+    "key": "this_element_must_related_with_other_element",
+    "val": "لابد ان يكون العنصر مرتبط بعنصر آخر"
+  },
+  {
+    "key": "description_element_exist",
+    "val": "عنوان العنصر غير موجود"
+  },
+  {
+    "key": "must_send_request_datasource_list",
+    "val": "لابد من ارسال الطلب الخاص بالقائمه"
+  },
+  {
+    "key": "selected_datasource_list_not_in_parent_datasource",
+    "val": "لا يوجد مصدر بيانات لمصدر البيانات المختار"
+  },
+  {
+    "key": "must_select_datasource_structure_type",
+    "val": "لابد من اختيار نوع المصدر"
+  },
+  {
+    "key": "this_element_related_with_other_elements",
+    "val": "العنصر مرتبط بعناصر أخرى"
+  },
+  {
+    "key": "element_related_with_fields",
+    "val": "العنصر مرتبط بحقول"
+  },
+  {
+    "key": "delete_success",
+    "val": "تم الحذف"
+  },
+  {
+    "key": "must_select_field_related_with_datasource_list",
+    "val": "لابد ان يكون هناك حقل لتحديد القائمه"
+  },
+  {
+    "key": "must_field_related_datasource_list_type",
+    "val": "لابد ان يكون نوع الحقل القائمه"
+  },
+  {
+    "key": "must_field_has_api",
+    "val": "لابد ان يكون الحقل به Api"
+  },
+  {
+    "key": "must_field_has_datasource_list",
+    "val": "لابد ان يكون الحقل به قائمه معرفه من قبل"
+  },
+  {
+    "key": "datasource_list_not_found",
+    "val": "القائمه غير موجود من قبل"
+  },
+  {
+    "key": "must_select_fees_type",
+    "val": "لابد من اختيار نوع المصروف"
+  },
+  {
+    "key": "can_not_save_fees_type_for_delete",
+    "val": "لا يمكن حفظ نوع مصروف للحذف مياشره"
+  },
+  {
+    "key": "fees_type_deleted_before",
+    "val": "نوع المصروف تم حذفه من قبل"
+  },
+  {
+    "key": "fees_type_not_found",
+    "val": "نوع المصروف غير موجود"
+  },
+  {
+    "key": "can_not_delete_fees_type_because_found_action_types_related",
+    "val": "لا يمكن حذف نوع المصروف لوجود نوع اجراء عليها"
+  },
+  {
+    "key": "field_not_selected",
+    "val": "لم يتم تحديد الحقل"
+  },
+  {
+    "key": "must_select_field",
+    "val": "لابد من اختيار الحقل"
+  },
+  {
+    "key": "must_enter_field_title",
+    "val": "لابد من ادخال عنوان الحقل"
+  },
+  {
+    "key": "must_enter_field_type",
+    "val": "لابد من ادخال نوع الحقل"
+  },
+  {
+    "key": "must_field_be_related_to_module",
+    "val": "لابد ان يكون الحقل الخارجي مرتبط بموديول"
+  },
+  {
+    "key": "must_external_field_has_name",
+    "val": "لابد ان يكون الحقل الخارجي له اسم"
+  },
+  {
+    "key": "module_not_found_for_field",
+    "val": "الموديول المراد ربط الحقل به غير موجود"
+  },
+  {
+    "key": "title_field_exist",
+    "val": "عنوان الحقل موجود من قبل"
+  },
+  {
+    "key": "name_field_exist",
+    "val": "اسم الحقل موجود من قبل"
+  },
+  {
+    "key": "can_not_be_table_without_columns",
+    "val": "لا يمكن ان يكون جدول ولا يوجد به اعمده "
+  },
+  {
+    "key": "field_for_added_as_column_in_table_not_found",
+    "val": "الحقل المراد اضافته كعمود في الجدول غير موجود"
+  },
+  {
+    "key": "can_not_be_external_and_internal_datasource_list_in_same_time",
+    "val": "لا يمكن ان يكون قائمه داخليه وخارجيه في نفس الوقت"
+  },
+  {
+    "key": "must_be_external_field",
+    "val": "يجب ان يكون الحقل خارجي"
+  },
+  {
+    "key": "must_be_external_field_and_same_module",
+    "val": "يجب ان يكون الحقل خارجي ولنفس الموديول"
+  },
+  {
+    "key": "can_not_be_internal_and_external_list_and_has_not_datasource_list",
+    "val": "لا يمكن ان يكون قائمه داخليه وليس له مصدر بيانات"
+  },
+  {
+    "key": "this_field_not_same_module",
+    "val": "هذا الحقل ليس لنفس الموديول"
+  },
+  {
+    "key": "can_not_edit_this_field_because_found_previous_application",
+    "val": "لا يمكن تعديل نوع الحقل لوجود طلبات سابقه علي هذا الحقل"
+  },
+  {
+    "key": "can_not_edit_format_this_field_because_found_previous_application",
+    "val": "لا يمكن تعديل تنسيق الحقل لوجود حقول مرتبطه علي هذا الحقل"
+  },
+  {
+    "key": "field_related_with_application_type",
+    "val": "الحقل مرتبط بنوع الطلب"
+  },
+  {
+    "key": "field_related_with_previous_applications",
+    "val": "الحقل مرتبط بطلبات حاليه"
+  },
+  {
+    "key": "must_select_module",
+    "val": "لابد من تحديد الموديول"
+  },
+  {
+    "key": "must_enter_field_name",
+    "val": "لابد من ادخال اسم الحقل"
+  },
+  {
+    "key": "new_not_found",
+    "val": "الخبر غير موجود"
+  },
+  {
+    "key": "new_message_not_found",
+    "val": "رساله الخبر غير موجود"
+  },
+  {
+    "key": "new_address_not_found",
+    "val": "عنوان الخبر غير موجود"
+  },
+  {
+    "key": "success_add_new_no_",
+    "val": "تم اضافه الخبر برقم "
+  },
+  {
+    "key": "success_update_new_no_",
+    "val": "تم تعديل الخبر رقم "
+  },
+  {
+    "key": "success_hide_new_no_",
+    "val": "تم اخفاء الخبر رقم "
+  },
+  {
+    "key": "must_enter_state_name",
+    "val": "لابد من كتابه اسم المرحله"
+  },
+  {
+    "key": "state_name_exist",
+    "val": "اسم المرحلة موجوده من قبل"
+  },
+  {
+    "key": "must_select_state",
+    "val": "لابد من اختيار المرحلة"
+  },
+  {
+    "key": "state_not_found",
+    "val": "المرحلة غير موجوده من قبل"
+  },
+  {
+    "key": "can_not_delete_state_because_related_application_type",
+    "val": "لا يمكن حذف المرحلة لوجود نوع طلب عليها"
+  },
+  {
+    "key": "can_not_delete_state_because_found_actions_related",
+    "val": "لا يمكن حذف المرحلة لوجود اجراءات عليها"
+  },
+  {
+    "key": "can_not_delete_state_because_found_applications_related",
+    "val": "لا يمكن حذف المرحله لوجود طلبات عليها"
+  },
+  {
+    "key": "must_select_company_tag_first",
+    "val": "قم باختيار الاعداد الخاص بالشركه"
+  },
+  {
+    "key": "company_name_not_found",
+    "val": "اسم الشركة غير موجود"
+  },
+  {
+    "key": "setting_not_found",
+    "val": "الاعداد التعريفي غير موجود"
+  },
+  {
+    "key": "company_name_exist",
+    "val": "اسم الشركة موجوده من قبل"
+  },
+  {
+    "key": "company_code_exist",
+    "val": "كود الشركة موجود من قبل"
+  },
+  {
+    "key": "setting_added_with_no_",
+    "val": "تم اضافه الاعداد برقم "
+  },
+  {
+    "key": "setting_update_with_no_",
+    "val": "تم تعديل الاعداد رقم "
+  },
+  {
+    "key": "must_enter_action_type",
+    "val": "قم بتحديد نوع الاجراء الطلب"
+  },
+  {
+    "key": "application_type_not_found",
+    "val": "نوع الطلب غير موجود"
+  },
+  {
+    "key": "action_type_not_found",
+    "val": "تعريف الاجراء غير موجود"
+  },
+  {
+    "key": "fields_group_id_not_found",
+    "val": "تعريف مجموعه الحقول غير موجوده"
+  },
+  {
+    "key": "field_id_not_found",
+    "val": "تعريف الحقل غير موجود"
+  },
+  {
+    "key": "map_field_not_found",
+    "val": "الحقل المرتبط به غير موجود"
+  },
+  {
+    "key": "can_not_delete_application_type_because_found_previous_applications",
+    "val": "يوجد طلبات مرتبطة بنوع الطلب لا يمكن إلغاءه"
+  },
+  {
+    "key": "must_enter_two_actions_at_least",
+    "val": "يجيب ادخال اجرائين علي الاقل"
+  },
+  {
+    "key": "cant_not_action_type_closed_and_can_reverse",
+    "val": "لا يمكن ان يكون الاجراء مغلق وفي نفس الوقت يمكن اعادته"
+  },
+  {
+    "key": "cant_not_action_type_auto_and_can_reverse",
+    "val": "لا يمكن ان يكون الاجراء تلقائي وفي نفس الوقت يمكن اعادته"
+  },
+  {
+    "key": "next_state_for_action_type_not_found",
+    "val": "المرحله التاليه للاجراء غير معرفه"
+  },
+  {
+    "key": "current_state_for_action_type_not_found",
+    "val": "المرحله الحالية للاجراء غير معرفه"
+  },
+  {
+    "key": "can_not_action_type_start_and_same_time_auto",
+    "val": "لا يمكن ان يكون الاجراء بدايه وفي نفس الوقت تلقائى"
+  },
+  {
+    "key": "not_found_fields_for_group_",
+    "val": "لا يوجد حقول للمجموعه "
+  },
+  {
+    "key": "in_action_type_",
+    "val": " بالاجراء "
+  },
+  {
+    "key": "external_action_type_must_enter_type_for_it",
+    "val": "الاجراء المرتبط خارجيا لابد من تحديد نوعه الخاص به"
+  },
+  {
+    "key": "can_not_action_type_start_and_closed_in_the_same_time",
+    "val": "لا يمكن ان يكون الاجراء بدايه ونهايه في نفس الوقت"
+  },
+  {
+    "key": "can_not_more_than_one_action_type_start",
+    "val": "لا يمكن ان يكون اكثر من اجراء بدايه"
+  },
+  {
+    "key": "must_found_fields_for_first_action_type",
+    "val": "لابد من وجود حقول لاول اجراء"
+  },
+  {
+    "key": "can_not_action_type_closed_and_related_next_actions",
+    "val": "لا يمكن ان يكون الاجراء مغلق ومرتبط به اجراءات تاليه"
+  },
+  {
+    "key": "must_have_at_least_one_action_type_closed",
+    "val": "لم يتم العثور علي اجراء لاغلاق الطلب"
+  },
+  {
+    "key": "must_enter_at_least_one_state",
+    "val": "يجب ادخال مرحله واحده علي الاقل"
+  },
+  {
+    "key": "must_all_actions_type_auto",
+    "val": "لابد ان يكون جميع الاجراءات لهذه المرحله آلي "
+  },
+  {
+    "key": "must_be_state_related_to_other",
+    "val": "لابد ان تكون المرحله مرتبطه باخري "
+  },
+  {
+    "key": "related_action_type_not_found",
+    "val": "الاجراء المرتبط غير موجود"
+  },
+  {
+    "key": "related_action_type_not_found_in_next_state_of_this_action_type",
+    "val": "الاجراء المرتبط غير موجود في المرحله التاليه لهذا الاجراء"
+  },
+  {
+    "key": "activity_not_found",
+    "val": "الاكتيفيتي غير موجود من قبل"
+  },
+  {
+    "key": "activity_must_be_external_same_module",
+    "val": "الاكتيفيتي لابد ان يكون خارجيا لنفس الموديول للاجراء"
+  },
+  {
+    "key": "field_must_be_external",
+    "val": "الحقل لابد ان يكون خارجيا"
+  },
+  {
+    "key": "field_must_be_external_with_same_module",
+    "val": "الحقل لابد ان يكون خارجيا لنفس الموديول"
+  },
+  {
+    "key": "this_field_exist_in_this_action_type",
+    "val": "هذا الحقل موجود في هذا الاجراء من قبل"
+  },
+  {
+    "key": "field_in_db_not_same_selected_field",
+    "val": "الحقل بقاعده البيانات غير مطابق بالحقل المختار "
+  },
+  {
+    "key": "mapped_field_in_db_not_same_selected_field",
+    "val": "الحقل المقارن بقاعده البيانات غير مطابق بالحقل المختار "
+  },
+  {
+    "key": "must_show_text_in_this_field",
+    "val": "لابد من عرض نص لهذا الحقل"
+  },
+  {
+    "key": "main_datasource_for_other_datasource_is_not_exist",
+    "val": "مصدر البيانات الرئيسي لمصدر آخر غير موجود "
+  },
+  {
+    "key": "fees_name_not_found",
+    "val": "اسم المصروف غير موجود"
+  },
+  {
+    "key": "fees_exist_in_same_action_type",
+    "val": "المصروف موجود من قبل لنفس الاجراء"
+  },
+  {
+    "key": "current_next_state_for_action_type_is_customer",
+    "val": "المرحله الحاليه والتاليه للاجراء عميل"
+  },
+  {
+    "key": "must_one_state_at_least",
+    "val": "لابد من وجود مرحله واحده للبدايه"
+  },
+  {
+    "key": "must_one_action_at_least_close",
+    "val": "لابد من وجود مرحله - اجراء واحد علي الاقل نهايه"
+  },
+  {
+    "key": "all_action_types_in_application_type_not_detected",
+    "val": "لم يتم تحديد جميع الاجراءات بنوع الطلب"
+  },
+  {
+    "key": "this_action_type_can_not_arrive",
+    "val": "هذا الاجراء لا يمكن ان تصل له - "
+  },
+  {
+    "key": "wrong_workflow_draw",
+    "val": "خطأ في الرسم بيئه العمل"
+  },
+  {
+    "key": "must_enter_application_type_name",
+    "val": "لابد من ادخال اسم نوع الطلب"
+  },
+  {
+    "key": "must_enter_field_and_type_is_external",
+    "val": "لابد من اختيار الحقل والنوع الخارجي"
+  },
+  {
+    "key": "category_not_found",
+    "val": "التصنيف غير موجود من قبل"
+  },
+  {
+    "key": "application_type_name_exist",
+    "val": "النوع موجود من قبل"
+  },
+  {
+    "key": "can_not_add_new_state",
+    "val": "لا يمكن اضافه مرحله جديده"
+  },
+  {
+    "key": "must_exist_state",
+    "val": "لابد من وجود تعريف للحاله"
+  },
+  {
+    "key": "can_not_delete_old_states",
+    "val": "لا يمكن الغاء بعض الحالات"
+  },
+  {
+    "key": "can_not_add_new_action_type_because_found_previous_applications",
+    "val": "لا يمكن اضافه اجراء جديد لوجود طلبات سابقه"
+  },
+  {
+    "key": "can_not_delete_old_actions_type",
+    "val": "لا يمكن الغاء بعض الاجراءات"
+  },
+  {
+    "key": "description_application_type_not_found",
+    "val": "وصف الطلب غير معروف"
+  },
+  {
+    "key": "copy_",
+    "val": "نسخ_"
+  },
+  {
+    "key": "can_not_take_action_because_have_not_permition",
+    "val": "لا يمكن عمل الاجراء لعدم وجود صلاحيه"
+  },
+  {
+    "key": "current_state_application_is_not_same_action_state",
+    "val": "المرحله الحالية بالطلب ليس هي مرحله الاجراء بالطلب"
+  },
+  {
+    "key": "selected_action_state_has_error_with_next_state",
+    "val": "مرحله الاجراء المختار ليس محدد بها المرحله التاليه"
+  },
+  {
+    "key": "this_action_is_external_and_has_not_connection_type",
+    "val": "الاجراء مرتبط خارجيا وغير معرف به نوع الاتصال"
+  },
+  {
+    "key": "next_state_for_this_action_not_related_application_type",
+    "val": "المرحله التاليه للاجراء غير مرتبط بنوع الطلب"
+  },
+  {
+    "key": "current_action_not_related_with_selected_action",
+    "val": "الاجراء الحالي غير مرتبط بالاجراء المختار"
+  },
+  {
+    "key": "must_write_comment",
+    "val": "لابد من كتابه تعليق"
+  },
+  {
+    "key": "this_action_is_external_with_payment_and_amount_not_set",
+    "val": "الاجراء مرتبط خارجيا بالدفع ولم يتم تحديد مبلغ الدفع"
+  },
+  {
+    "key": "processing_working_",
+    "val": "جاري العمل علي "
+  },
+  {
+    "key": "must_pay_fees_before_close_application",
+    "val": "لابد من دفع المستحقات قبل انهاء الطلب"
+  },
+  {
+    "key": "application_not_confirmed_and_transfer_actions",
+    "val": "الطلب لم يتم تأكيده وترحيله للاجراءات"
+  },
+  {
+    "key": "this_action_not_allowed_to_reverse",
+    "val": "هذا الاجراء غير قابل للارجاع"
+  },
+  {
+    "key": "application_must_be_pending",
+    "val": "الطلب لابد أن يكون معلق"
+  },
+  {
+    "key": "last_action_not_found",
+    "val": "الاجراء الاخير غير موجود"
+  },
+  {
+    "key": "action_complete",
+    "val": "تم نقل الاجراء من الاجراء الخارجي "
+  },
+  {
+    "key": "there_are_no_arrears",
+    "val": "لا يوجد متأخرات دفع"
+  },
+  {
+    "key": "fees_amount_service_not_the_same_amount_paied",
+    "val": "قيمه الخدمه غير متطابقه مع مبلغ الدفع"
+  },
+  {
+    "key": "payment_process_complete_done",
+    "val": "تم الدفع"
+  },
+  {
+    "key": "must_select_user",
+    "val": "لابد من اختيار المستخدم"
+  },
+  {
+    "key": "update_user_permition_done",
+    "val": "تم تعديل صلاحيات المستخدم"
+  },
+  {
+    "key": "unknown_company",
+    "val": "شركة غير معرفه"
+  },
+  {
+    "key": "application_already_cancelled",
+    "val": "الطلب تم الغاءه بالفعل"
+  },
+  {
+    "key": "application_has_not_last_state",
+    "val": "الطلب ليس به مرحله محدده"
+  },
+  {
+    "key": "application_has_not_last_state_in_the_same_application_type",
+    "val": "الطلب ليس به مرحله محدده لنفس نوع الطلب"
+  },
+  {
+    "key": "application_must_in_state_can_cancel",
+    "val": "لابد ان يكون الطلب بمرحله قابله للالغاء"
+  },
+  {
+    "key": "application_cancelled",
+    "val": "تم الغاء الطلب"
+  },
+  {
+    "key": "field_code_not_found",
+    "val": "قيمة الحقل غير معرفه"
+  },
+  {
+    "key": "some_fields_related_with_more_modules",
+    "val": "يوجد حقول مربوطه علي اكثر من موديول"
+  },
+  {
+    "key": "application_not_found",
+    "val": "الطلب غير موجود"
+  },
+  {
+    "key": "application_action_not_found",
+    "val": "الاجراء غير موجود"
+  },
+  {
+    "key": "must_enter_required_field",
+    "val": "لابد من ادخال الحقل الاجباري "
+  },
+  {
+    "key": "because_field_values_does_not_exist",
+    "val": " وذلك لعدم وجود قيم"
+  },
+  {
+    "key": "values_not_exist",
+    "val": " القيم غير موجوده"
+  },
+  {
+    "key": "found_error_in",
+    "val": " يوجد خطأ في  "
+  },
+  {
+    "key": "must_exist_field_type",
+    "val": "لابد من وجود نوع للحقل "
+  },
+  {
+    "key": "action_has_not_fees",
+    "val": "الاجراء ليس به مدفوعات "
+  },
+  {
+    "key": "can_not_connect_to_payment_gateway",
+    "val": "لم يتمكن من الربط مع بوابه الدفع "
+  },
+  {
+    "key": "can_not_connect_to_payment_gateway_because_response_not_found",
+    "val": "لم يتمكن من الربط لعدم وجود رد من الربط مع بوابه الدفع"
+  },
+  {
+    "key": "this_action_has_not_related_actions",
+    "val": "لا يوجد اجراءات تاليه لهذا الاجراء "
+  },
+  {
+    "key": "can_not_connect_to_auth_to_detect_user",
+    "val": "لم يتمكن بالاتصال لتحديد المستخدم"
+  },
+  {
+    "key": "fees_does_not_exist",
+    "val": "لا يوجد اي مصاريف او رسوم"
+  },
+  {
+    "key": "application_value_action_not_found",
+    "val": "الاجراء بالطلب غير موجود"
+  },
+  {
+    "key": "application_value_field_not_found",
+    "val": "الحقل بالطلب غير موجود"
+  },
+  {
+    "key": "application_value_date_not_found",
+    "val": "تاريخ بالطلب غير موجود"
+  },
+  {
+    "key": "application_action_type_not_found",
+    "val": "الاجراء الخاص بالطلب غير معرف به نوع الطلب"
+  },
+  {
+    "key": "response_action_information",
+    "val": "بيانات الرد علي الاجراء"
+  },
+  {
+    "key": "must_select_company_code_in_selected_station",
+    "val": "لابد من تحديد محافظه الفرع المحدد"
+  },
+  {
+    "key": "table_has_not_rows",
+    "val": "الجدول بدون سطور"
+  },
+  {
+    "key": "first_action_in_application_type_not_found",
+    "val": "الاجراء الاول لنوع الطلب غير موجود"
+  },
+  {
+    "key": "selected_action_not_found",
+    "val": "الاجراء المختار غير موجود"
+  },
+  {
+    "key": "field_not_found_or_not_mapped_to_integrator",
+    "val": "الحقل غير موجود او غير مربوط بال Integrator"
+  },
+  {
+    "key": "must_enter_module_name",
+    "val": "لابد من كتابه اسم الموديول"
+  },
+  {
+    "key": "icon_is_large_than_50_k_bytes",
+    "val": "الايقون كبيره لابد ان لا تتجاوز ال 50 كيلو بايت"
+  },
+  {
+    "key": "must_select_module_for_field",
+    "val": "لابد من تحديد الموديول الخاص بالحقل"
+  },
+  {
+    "key": "must_enter_activity_name",
+    "val": "لابد من كتابه اسم الاكتيفيتي"
+  },
+  {
+    "key": "must_enter_activity_title",
+    "val": "لابد من كتابه عنوان الاكتيفيتي"
+  },
+  {
+    "key": "must_enter_service_name",
+    "val": "لابد من كتابه اسم السيرفيس"
+  },
+  {
+    "key": "must_enter_package_name",
+    "val": "لابد من كتابه اسم الباكدج"
+  },
+  {
+    "key": "must_enter_activity_ip",
+    "val": "لابد من كتابه عنوان الاتصال الاكتيفيتي"
+  },
+  {
+    "key": "must_enter_module_activity",
+    "val": "لابد من تحديد الموديول الخاص بالاكتيفيتي"
+  },
+  {
+    "key": "must_enter_activity",
+    "val": "لابد من تحديد الاكتيفيتي"
+  },
+  {
+    "key": "must_enter_activity_form",
+    "val": "لابد من تحديد نموذج الاكتيفيتي"
+  },
+  {
+    "key": "activity_name_exist",
+    "val": "اسم الموديول موجوده من قبل"
+  },
+  {
+    "key": "must_datasource_list_be_out_list",
+    "val": "يجب ان يكون حقل مصدر البيانات الاب نوعه قائمه خارجيه"
+  },
+  {
+    "key": "must_datasource_list_external_field",
+    "val": "يجب ان يكون حقل مصدر البيانات خارجي"
+  },
+  {
+    "key": "must_datasource_list_external_field_and_like_same_module",
+    "val": "يجب ان يكون حقل مصدر البيانات خارجي ولنفس الموديول"
+  },
+  {
+    "key": "module_not_found",
+    "val": "الموديول غير موجود"
+  },
+  {
+    "key": "can_not_connect_to",
+    "val": " لم يتمكن من الربط "
+  },
+  {
+    "key": "not_prepare_data",
+    "val": "لم يتم تجهيز البيانات"
+  }
+]
